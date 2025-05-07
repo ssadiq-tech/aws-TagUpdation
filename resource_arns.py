@@ -3,8 +3,8 @@ dynamodb_resource_arns = [
 ]
 
 s3_resource_arns = [
-    'arn:aws:s3:::my-logs-bucket-11111',
-    'arn:aws:s3:::mydatabucket-111111'
+    'arn:aws:s3:::mainaccountbvcket'
+    
 ]
 
 kafka_resource_arns = [
