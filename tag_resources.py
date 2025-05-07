@@ -12,7 +12,7 @@ tags_to_update = {
 
 # Patch tags for imported resources
 response = client.tag_resources(
-    ResourceARNList=resource_arns,
+    ResourceARNList=resource_arn,
     Tags=tags_to_update
 )
 
