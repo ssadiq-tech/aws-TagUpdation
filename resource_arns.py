@@ -3,7 +3,7 @@ dynamodb_resource_arns = [
 ]
 
 s3_resource_arns = [
-    'arn:aws:s3:::mainaccountbvcket'
+    'arn:aws:s3:::mainaccountbvcket',
     
 ]
 
