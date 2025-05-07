@@ -1,5 +1,5 @@
 import boto3
-from resource_arns import resource_arns
+from resource_arns import resource_arn
 # Initialize tagging client
 client = boto3.client('resourcegroupstaggingapi')
 
